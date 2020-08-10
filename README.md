@@ -1,4 +1,4 @@
-# GoldenOrb Easy Setup Guide. 
+# GoldenOrb Easy Setup Guide
 Configure ROOter for first use.
 
 After you unbox your GoldenOrb router and power it on, you'll have 2 physical connection options to setup the ROOTer:

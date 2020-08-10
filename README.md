@@ -33,3 +33,5 @@ _________________
 # Setup the WiFi
 
 https://ofmodemsandmen.com/configure.html
+
+This guide and OpenWRT are FOSS.

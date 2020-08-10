@@ -19,6 +19,7 @@ First configuration we will do is changing the APN. The APN change should be the
     - fast.t-mobile.com
  - Sprint
     - r.ispsn
+    - n.ispsn
 
 #######################################################
 

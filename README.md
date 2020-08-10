@@ -22,11 +22,13 @@ _________________
     - r.ispsn
     - n.ispsn
 _________________
+Just to make sure the ROOTer and the cellular network are on the same page, we'll change the TTL values by navigating  to Firewall >  Custom TTL and clicking the checkbox for 65.
+
 Click Save & Apply and unplug the router from it's  power source. Wait 10 seconds for it to fully power down (why? cheap https://en.wikipedia.org/wiki/Capacitor) and replug it.
 
 We should be connected  at this point and  to verify, simply log back in to the ROOTer at http://192.168.1.1 and go to Modem > Network Status.
 
-Just to make sure the ROOTer and the cellular network are on the same page, we'll change the TTL values by navigating  to Firewall >  Custom TTL and clicking the checkbox for 65.
+
 _________________
 
 

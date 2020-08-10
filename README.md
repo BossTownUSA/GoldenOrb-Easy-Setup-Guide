@@ -3,7 +3,7 @@
 Configure ROOter for first use.
 
 After you unbox your GoldenOrb router and power it on, you'll have 2 connection options to setup the ROOTer.
-First and rcommended option is  via Ethernet. Plug one end of a standard Ethernet cable into the LAN ports on the ROOTer and  the opposing end into a computer or Ethernet ready device. Assuming both the ROOTer and the connecting device are set to default, you should automatically connect. Disabling WiFi on the connecting device or computer during this process will elimate additional problems.
+First and rcommended option is  via Ethernet. Plug one end of a standard Ethernet cable into the LAN ports on the ROOTer and  the opposing end into a computer or Ethernet ready device. Assuming both the ROOTer and the connecting device are set to default network connection settings, you should automatically connect. Disabling WiFi on the connecting device or computer during this process will elimate additional problems.
 
 Second option is via  WiFi. The default WiFi password for ROOTer as of 08/2020  is "rooter2017"  without quotes.
 

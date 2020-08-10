@@ -1,14 +1,14 @@
-# GoldenOrb-Easy-Setup-Guide
-
+# GoldenOrb Easy Setup Guide. 
 Configure ROOter for first use.
 
-After you unbox your GoldenOrb router and power it on, you'll have 2 connection options to setup the ROOTer.
-First and rcommended option is  via Ethernet. Plug one end of a standard Ethernet cable into the LAN ports on the ROOTer and  the opposing end into a computer or Ethernet ready device. Assuming both the ROOTer and the connecting device are set to default network connection settings, you should automatically connect. Disabling WiFi on the connecting device or computer during this process will elimate additional problems.
+After you unbox your GoldenOrb router and power it on, you'll have 2 physical connection options to setup the ROOTer:
+  - First and rcommended option is  via Ethernet. Plug one end of a standard Ethernet cable into the LAN ports on the ROOTer and  the opposing end into a computer or Ethernet ready device. Assuming both the ROOTer and the connecting device are set to default network connection settings, you should automatically connect. Disabling WiFi on the connecting device or computer during this process will elimate additional problems.
 
-Second option is via  WiFi. The default WiFi password for ROOTer as of 08/2020  is "rooter2017"  without quotes.
+  - Second option is via  WiFi. The default WiFi password for ROOTer as of 08/2020  is "rooter2017"  without quotes.
 
 Now that  you have sucessfully connected to the ROOTer, open a clean web browser and  go to http://192.168.1.1
-Make  sure you are NOT conencting to https://192.168.1.1
+Make  sure you are NOT conencting to https://192.168.1.1 - notice the s after http should be missing.
+
 #######################################################
 
 When you initially upgrade your router to a ROOter you must reconfigure the router setting to match your needs. This step is not needed when upgrading to a new ROOter version if you had the Keep Settings box checked. If it was unchecked then you must reconfigure it again.

@@ -9,6 +9,17 @@ After you unbox your GoldenOrb router and power it on, you'll have 2 physical co
 Now that  you have sucessfully connected to the ROOTer, open a clean web browser and  go to http://192.168.1.1
 Make  sure you are NOT conencting to https://192.168.1.1 - notice the s after http should be missing.
 
+First configuration we will do is changing the APN. The APN change should be the only default configuration change necessary to connect via cellular. From the left hand navigation menu select Modem > Connection Profile. From here we have the first form box labled simply, "APN". Here is a list of the default APN's  we should choose from depending on which SIM Card is being used, these are first choice Carrier Grade APN's. If an MVNO or 'reeller' SIM is being used, more APN research is necessarry outside this guide. (If these default APNs do not work, you do not have a proprer SIM):
+
+ - Verizon
+    - vzwinternet
+ - AT&T
+    - broadband
+ - T-Mobile
+    - fast.t-mobile.com
+ - Sprint
+    - r.ispsn
+
 #######################################################
 
 When you initially upgrade your router to a ROOter you must reconfigure the router setting to match your needs. This step is not needed when upgrading to a new ROOter version if you had the Keep Settings box checked. If it was unchecked then you must reconfigure it again.
